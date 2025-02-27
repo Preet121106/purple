@@ -1,0 +1,40 @@
+{
+  "name":"purple-theme-by-preet",
+"displayName": "Purple Theme by Preet",
+  "publisher": "preetbiswas12",
+  "description": "Cool and Calming purple color palette with some touches...Also my first Vs-code Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/Preet121106/purple"
+},
+  "keywords": [
+    "code", "vs", "dark", "hot", "pink", "magenta", "fuchsia",
+    "fast", "eye", "design", "modern", "new", "fresh", "good",
+    "user", "class", "id", "value", "material", "icon", "c",
+    "plus", "file", "noctis", "sublime", "custom", "easy", "sweet",
+    "candy", "punch", "blush", "watermelon", "coral", "background",
+    "strawberry", "wood", "taffy", "orchid", "crimson", "ruby",
+    "cherry", "peach", "css", "brilliant", "lace"
+  ],
+  "icon": "logo.png",
+  "theme": "dark",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Moonlit Mirage",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Moonlit Mirage-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "deploy": "vsce publish --yarn"
+  }
+}
