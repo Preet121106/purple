@@ -27,7 +27,7 @@
 </div>
 ###########
  <div align="center">
-        <img src="Screenshot 2025-02-27 205004"
+        <img src="Screenshot 2025-02-27 205004.png"
 </div>
 ###########
  <div align="center">
